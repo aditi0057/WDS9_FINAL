@@ -936,12 +936,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 .day1{
   
   background-color: rgb(201 201 201);
-  color: #000;
+  color: #000000;
   width: 50%;
   margin:10px 10px;
   padding: 19px ;
   height: 30rem;
-  font-size: 1.13rem;
+  font-size: 1.3rem;
 }
 .day2{
   background-color: rgb(213 190 217);
@@ -1488,6 +1488,7 @@ z-index: 1;
 video
 {
   width: 100%;
+ 
 }
 .SCHEDULE
 {
@@ -1514,7 +1515,7 @@ video
   font-size: 1rem;
   padding-left: 5px;
   padding-right: 5px;
-  font-size: 0.57rem;
+  font-size: 0.75rem;
   text-align: justify;
 }
 .day2{
@@ -1526,7 +1527,7 @@ video
   font-size: 1rem;
   padding-left: 5px;
   padding-right: 5px;
-  font-size: 0.57rem;
+  font-size: 0.75rem;
   text-align: justify;
 }
 .day1 h1{
@@ -1655,7 +1656,7 @@ video
   font-size: 1rem;
   padding-left: 5px;
   padding-right: 5px;
-  font-size: 0.57rem;
+  font-size: 0.8rem;
   text-align: justify;
 }
 .day2{
@@ -1667,7 +1668,7 @@ video
   font-size: 1rem;
   padding-left: 5px;
   padding-right: 5px;
-  font-size: 0.57rem;
+  font-size: 0.8rem;
   text-align: justify;
 }
 .day1 h1{
@@ -1796,7 +1797,7 @@ video
   font-size: 1rem;
   padding-left: 5px;
   padding-right: 5px;
-  font-size: 0.75rem;
+  font-size: 0.99rem;
   text-align: justify;
 }
 .day2{
@@ -1808,7 +1809,7 @@ video
   font-size: 1rem;
   padding-left: 5px;
   padding-right: 5px;
-  font-size: 0.75rem;
+  font-size: 0.99rem;
   text-align: justify;
 }
 .day1 h1{
@@ -1952,7 +1953,7 @@ video
   font-size: 1rem;
   padding-left: 15px;
   padding-right: 15px;
-  font-size: 0.92rem;
+  font-size: 1.1rem;
   text-align: justify;
 }
 .day2{
@@ -1964,7 +1965,7 @@ video
   font-size: 1rem;
   padding-left: 15px;
   padding-right: 15px;
-  font-size: 0.92rem;
+  font-size: 1.1rem;
   text-align: justify;
 }
 .day1 h1{
@@ -2108,7 +2109,7 @@ video
   font-size: 1rem;
   padding-left: 15px;
   padding-right: 15px;
-  font-size: 0.99rem;
+  font-size: 1.1rem;
   text-align: justify;
 }
 .day2{
@@ -2120,7 +2121,7 @@ video
   font-size: 1rem;
   padding-left: 15px;
   padding-right: 15px;
-  font-size: 0.99rem;
+  font-size: 1.2rem;
   text-align: justify;
 }
 .day1 h1{
@@ -2215,7 +2216,7 @@ video
 }
 .gif{
   position:relative;
-  top:-20px;
+  top:-100px;
   right: 18px;
   width: 175px;
   height: 175px;
@@ -2264,7 +2265,7 @@ video
   font-size: 1rem;
   padding-left: 15px;
   padding-right: 15px;
-  font-size: 0.99rem;
+  font-size: 1.5rem;
   text-align: justify;
 }
 .day2{
@@ -2276,7 +2277,8 @@ video
   font-size: 1rem;
   padding-left: 15px;
   padding-right: 15px;
-  font-size: 0.99rem;
+  line-height: 3rem;
+  font-size: 1.6rem;
   text-align: justify;
 }
 .day1 h1{
